@@ -1,0 +1,8 @@
+{
+  "name": "UstozAI",
+  "description": "O'qituvchilar uchun mavzu asosida taqdimot slaydlari, uyga vazifalar, interaktiv pazl o'yinlari, krasvord, pedagogik metodikalar va testlarni yaratuvchi hamda PDF shaklida yuklab beruvchi AI agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
